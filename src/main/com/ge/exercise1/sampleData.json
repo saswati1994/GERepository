@@ -1,0 +1,26 @@
+{
+    "id": "0",
+    "name": "MyApp",
+    "users": [
+        {
+            "id": "1",
+            "name": "Beth Jones"
+        },
+        {
+            "id": "2",
+            "name": "Jhon Doe"
+        }
+    ],
+    "groups": [
+        {
+            "id": "1",
+            "name": "SimpleGroup",
+            "users": [
+                {
+                    "id": "1",
+                    "name": "Beth Jones"
+                }
+            ]
+        }
+    ]
+}
